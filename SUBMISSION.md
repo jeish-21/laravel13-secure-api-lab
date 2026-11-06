@@ -1,0 +1,1 @@
+The 401 Unauthorized response means that the system rejects a request because the user has not provided valid authentication. A 200 OK response means the user has successfully logged in and can access their profile details. After logging out, the system deactivates the access token, so it can no longer be used to enter protected parts of the API.
